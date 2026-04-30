@@ -1,0 +1,7 @@
+﻿Name,Missing Rate,List of Missing Articles,Number of Articles Check,Number of Missing ,OBITUARIES,Sport/Game Related 
+Boston Globe,0.08,"[10,16,35,44]",50,4,0,2
+Philadelphia Daily News,0.12,"[13,24,29, 35, 40, 42]",50,6,1,4
+New York Daily News,0.06,"[13,16,21]",50,3,0,1
+Detriot Free Press,0.06,"[30, 42, 43]",50,3,0,1
+Arizona Republic,0.08,"[18,26,40,41]",50,4,4,0
+Chicago Tribune ,0.06,"[8, 20, 31, 37, 44]",50,5,0,0
